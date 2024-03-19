@@ -3,6 +3,7 @@ Overview
 This School Database Management Application provides a user-friendly graphical interface for performing CRUD operations on a students table within a PostgreSQL database. Users can view all students, add new students, update students' email addresses, and delete students from the database.
 
 Video demonstration: https://www.youtube.com/watch?v=cxpl2wDF0PA
+Github: https://github.com/JJPelk/COMP3005A3Q1
 
 Features
 View All Students: Display all student records from the database.
